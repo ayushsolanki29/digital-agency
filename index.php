@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>DGital - Digital Agency HTML Template</title>
+    <title>Ayush - Digital Agency HTML Template</title>
     <?php include 'php/components/header.php' ?>
 </head>
 
